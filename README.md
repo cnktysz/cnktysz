@@ -5,6 +5,6 @@
 
 Check out my website 👉 [cenktuysuz.me](cenktuysuz.me)
 
-[![](https://img.shields.io/badge/twitter/follow/:cenk_tuysuz?label=Follow)](https://twitter.com/cenk_tuysuz)
+[![](https://img.shields.io/twitter/follow/cenk_tuysuz?style=social)](https://twitter.com/cenk_tuysuz)
 
 
