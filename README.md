@@ -5,7 +5,7 @@
 
 Hi! I am Cenk. I am currently a Physics Master’s student at Middle East Technical University in Turkey. My research focuses on Quantum Machine Learning applications for High Energy Physics Experiments. I love collaborating with people from all over the world, and I am open to collaboration opportunities.
 
-Besides, I love Formula 1 (Forza Ferrari!) and gaming (my favorite genre is Souls-like games). steam: frozenblock, psn: cnktysz
+Besides, I love Formula 1 (Forza Ferrari! 🏎️) and gaming (my favorite genre is Souls-like games ⚔️). steam: frozenblock, psn: cnktysz
 
 ## Research Interests
 
