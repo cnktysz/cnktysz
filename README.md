@@ -13,6 +13,6 @@ Besides, I love Formula 1 (Forza Ferrari! 🏎️) and gaming (my favorite genre
 * QML applications in High Energy Physics
 * Quantum Computing applications in Quantum Field Theory
 
-You can find more details about me on my website 👉 [cenktuysuz.me](https://cnktysz.github.io/)
+You can find more details about me on my website 👉 [cnktysz.github.io](https://cnktysz.github.io/)
 
 
