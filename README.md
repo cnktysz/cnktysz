@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=?style=plastic&logo=appveyor&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cenk-tuysuz/)
 [![Mail Badge](https://img.shields.io/badge/Contact%20Me-c14438?style=?style=plastic&logo=appveyor&logo=gmail&logoColor=white&link=mailto:cenktuysuz@gmail.com)](mailto:cenktuysuz@gmail.com)
 
-Hi! I am Cenk. I am currently a Physics Master’s student at Middle East Technical University in Turkey. My research focuses on Quantum Machine Learning applications for High Energy Physics Experiments. I love collaborating with people from all over the world, and I am open to collaboration opportunities.
+Hi! I am Cenk Tüysüz (/ˈdʒɛŋk tu:jsu:z/). I am an incoming Physics PhD student at Humboldt-Universität zu Berlin and DESY. My research focuses on Quantum Machine Learning applications for High Energy Physics Experiments. I love collaborating with people from all over the world, and I am open to collaboration opportunities.
 
 Besides, I love Formula 1 (Forza Ferrari! 🏎️) and gaming (my favorite genre is Souls-like games ⚔️). steam: frozenblock, psn: cnktysz
 
